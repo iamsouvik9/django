@@ -1,4 +1,4 @@
-# django
+# django blog app deployment on EC2 instance.
 
 ### Setup
 Update the System
